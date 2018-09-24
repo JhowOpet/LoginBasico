@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1073816283066",
+    "firebase_url": "https://loginbasico-43216.firebaseio.com",
+    "project_id": "loginbasico-43216",
+    "storage_bucket": "loginbasico-43216.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073816283066:android:d5ad1b3b33c8d56f",
+        "android_client_info": {
+          "package_name": "com.example.loginbasico"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073816283066-fkkoajora8knvp2lr5t2kr23b3qf1qre.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginbasico",
+            "certificate_hash": "b1793a2930eaf6fabb07ec1aa6e8312afb15dc0c"
+          }
+        },
+        {
+          "client_id": "1073816283066-b7u2vjgnb6rbpqjs6hikler5q8ope5ht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSeaqGOT5uIQjS5WjR_Fi1qX07pEBqXcU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073816283066-b7u2vjgnb6rbpqjs6hikler5q8ope5ht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
